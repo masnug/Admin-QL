@@ -1,0 +1,1361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"uni",
+				"unit_price"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"label",
+				"label_size"
+			],
+			[
+				"em",
+				"emptyTags"
+			],
+			[
+				"Faca",
+				"Facades"
+			],
+			[
+				"Html",
+				"HtmlBuilder"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"In",
+				"Invoice"
+			],
+			[
+				"due",
+				"duedate"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"app",
+				"approved_at"
+			],
+			[
+				"tax",
+				"tax_id"
+			],
+			[
+				"uns",
+				"unsigned"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"date_Crea",
+				"date_create_from_format"
+			],
+			[
+				"pa",
+				"patterns"
+			],
+			[
+				"g",
+				"group"
+			],
+			[
+				"regio",
+				"region_id"
+			],
+			[
+				"meta",
+				"meta"
+			],
+			[
+				"Arr",
+				"array_diff"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"call",
+				"call_user_func_array"
+			],
+			[
+				"add",
+				"address_id"
+			],
+			[
+				"compa",
+				"companies"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"data",
+				"data_person"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Con",
+				"Contact"
+			],
+			[
+				"ass",
+				"associate"
+			],
+			[
+				"reg",
+				"region"
+			],
+			[
+				"res",
+				"res_key"
+			],
+			[
+				"n",
+				"new_key"
+			],
+			[
+				"ser",
+				"search_pattern"
+			],
+			[
+				"sea",
+				"search_pattern"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"per",
+				"person_id"
+			],
+			[
+				"pers",
+				"personate_type"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"date_",
+				"date_create"
+			],
+			[
+				"ne",
+				"nextdate"
+			],
+			[
+				"con",
+				"contact1"
+			],
+			[
+				"ac",
+				"activated_date"
+			],
+			[
+				"Te",
+				"Telepon"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"region",
+				"Region"
+			],
+			[
+				"ins",
+				"institution-options"
+			],
+			[
+				"pro",
+				"provs"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"Admi",
+				"admin-product"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"on",
+				"onCreate"
+			],
+			[
+				"with",
+				"withErrors"
+			],
+			[
+				"wit",
+				"withInput"
+			],
+			[
+				"array_shi",
+				"array_unshift"
+			],
+			[
+				"funcge",
+				"func_get_args"
+			],
+			[
+				"X-",
+				"X-App-Msg"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"co",
+				"contents"
+			],
+			[
+				"Prod",
+				"ProductValidator"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"modal",
+				"modalId"
+			],
+			[
+				"moda",
+				"modalId"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"tb",
+				"table"
+			],
+			[
+				"metho",
+				"method_exists"
+			],
+			[
+				"RE",
+				"Response"
+			],
+			[
+				"pjax",
+				"pjax-throber"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"theme",
+				"theme_basepath"
+			],
+			[
+				"regist",
+				"registerListener"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"them",
+				"theme_path"
+			],
+			[
+				"the",
+				"theme"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"rol",
+				"role"
+			],
+			[
+				"role",
+				"rolename"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"Aut",
+				"Authorizable"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"sab",
+				"sablon-demo"
+			],
+			[
+				"Ce",
+				"Carme"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"exhi",
+				"exhibit-demo"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"mrt",
+				"margin-top"
+			],
+			[
+				"else",
+				"else	Twig : Else"
+			],
+			[
+				"if",
+				"if	Twig : If"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/footer_scripts.html",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/mailbox.html",
+			"settings":
+			{
+				"buffer_size": 43931,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git-flow: Init With Defaults"
+			],
+			[
+				"mar",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"gpu",
+				"Git: Push"
+			],
+			[
+				"g",
+				"Git-flow: Init With Defaults"
+			],
+			[
+				"gpul",
+				"Git: Pull"
+			],
+			[
+				"gfs",
+				"Git-flow: Feature Start"
+			],
+			[
+				"gf",
+				"Git-flow: Init With Defaults"
+			],
+			[
+				"tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ho",
+				"Git-flow: Hotfix Start"
+			],
+			[
+				"gh",
+				"Git-flow: Hotfix Start From Commit"
+			],
+			[
+				"rf",
+				"Git-flow: Release Finish"
+			],
+			[
+				"gr",
+				"Git-flow: Release Finish"
+			],
+			[
+				"gfi",
+				"Git-flow: Init With Defaults"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"gb",
+				"Git: Checkout New Branch"
+			],
+			[
+				"fea",
+				"Git-flow: Feature Start"
+			],
+			[
+				"md",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"TW",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"PA",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Create Package File"
+			],
+			[
+				"gitre",
+				"Git: Add Remote"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"sho",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linte",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"hg",
+				"Hg: Quick Commit"
+			],
+			[
+				"hc",
+				"Hg: Quick Commit"
+			],
+			[
+				"hgc",
+				"Hg: Quick Commit"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"view.run_command('file_fixer')",
+			"view.run_command('php_cs_fixer')",
+			"view.run('php_cs_fixer')",
+			"view.run_command('example')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/calendar.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-calendar.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-flot.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-form-advanced.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-knob.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-morris.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-sliders.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-data-table.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/tables/data.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/tables/simple.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/tables/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/forms/editors.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/forms/advanced.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/forms/general.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-editor.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/forms/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/docs/js/sample-jquery-ui.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/jquery-ui.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/icons.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/sliders.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/timeline.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/charts/flot.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_includes/footer_scripts.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/charts/inline.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/charts/morris.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/css/docs/sample-icons.css",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/general.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/buttons.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/charts/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/UI/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/js/admin-ql/sample-knob.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/js/admin-ql/sample-flot.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/js/AdminLTE/morris.js",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/widgets.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_layouts/default.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/index.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_includes/head.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_includes/header.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_includes/sidebar.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/_layouts/base.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/mailbox.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/index.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/pages/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/_includes/head.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/empty.html",
+		"/home/nug/Workbench/Hypertext/Develop/Admin-QL/_site/index.html",
+		"/home/nug/Workbench/Repo/bootstrap/docs/_layouts/home.html",
+		"/home/nug/Workbench/Repo/bootstrap/docs/_includes/header.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/css/simple-sidebar.css",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/index2.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/css/jasny-bootstrap.min.css",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/_index.html",
+		"/home/nug/Workbench/Hypertext/Develop/Aqlan/.gitignore",
+		"/home/nug/Workbench/Repo/bootstrap/docs/index.html",
+		"/home/nug/Developing/Hypertext/Template/Aqlan/todc-bootstrap-3.1.1-3.2.1-dist.zip",
+		"/home/nug/Developing/Hypertext/Template/Aqlan/todc-bootstrap/css/bootstrap.min.css",
+		"/var/www/mediatech/office/app/models/observers/TaxObserver.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/HtmlServiceProvider.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/HtmlBuilder.php",
+		"/var/www/mediatech/office/app/routes.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/FormBuilder.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/helpers.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/ZenPHP/Element.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/ZenPHP/ZenPHP.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/ZenPHP/TextElement.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/JuicierServiceProvider.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/Facades/Juicier.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/readme.md",
+		"/var/www/mediatech/office/app/config/app.php",
+		"/var/www/mediatech/office/vendor/laravel/framework/src/Illuminate/Html/HtmlBuilder.php",
+		"/var/www/mediatech/office/vendor/laravel/framework/src/Illuminate/Html/FormBuilder.php",
+		"/var/www/mediatech/office/app/modules/invoice/views/admin-invoice/create.twig",
+		"/var/www/mediatech/office/vendor/symfony/routing/Symfony/Component/Routing/RouterInterface.php",
+		"/var/www/mediatech/office/vendor/symfony/routing/Symfony/Component/Routing/Matcher/RedirectableUrlMatcherInterface.php",
+		"/var/www/mediatech/office/vendor/symfony/routing/Symfony/Component/Routing/Tests/Matcher/RedirectableUrlMatcherTest.php",
+		"/var/www/mediatech/office/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/IpUtilsTest.php",
+		"/var/www/mediatech/office/vendor/filp/whoops/tests/Whoops/RunTest.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/Facades\\Juicier.php",
+		"/var/www/mediatech/office/app/src/empu/juicier/Empu/Juicier/ZenPHP/RootElement.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/HtmlJuicer.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/ZenPHP/ZenPHP.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/ZenPHP/RootElement.php",
+		"/var/www/mediatech/office/app/src/empu/html/Empu/Html/ZenPHP/Element.php",
+		"/var/www/mediatech/office/app/modules/invoice/controllers/admin/InvoiceController.php",
+		"/var/www/mediatech/office/app/modules/invoice/src/validators/InvoiceValidator.php",
+		"/var/www/mediatech/office/app/src/empu/borang/Empu/Borang/BorangServiceProvider.php",
+		"/var/www/mediatech/office/app/modules/invoice/lang/id/invoice.php",
+		"/var/www/mediatech/office/app/modules/invoice/routes.php",
+		"/var/www/mediatech/office/app/macros.php",
+		"/var/www/mediatech/office/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php",
+		"/var/www/mediatech/office/app/views/themes/routelink/layouts/base.twig",
+		"/var/www/mediatech/office/public/themes/routelink/js/jquery.icheck/skins/all.css",
+		"/var/www/mediatech/office/vendor/symfony/routing/Symfony/Component/Routing/Matcher/TraceableUrlMatcher.php",
+		"/var/www/mediatech/office/app/views/themes/routelink/partials/aside.twig",
+		"/var/www/mediatech/office/app/models/Invoice.php",
+		"/var/www/mediatech/office/app/models/InvoiceItem.php",
+		"/var/www/mediatech/office/app/models/Company.php",
+		"/var/www/mediatech/office/app/models/Client.php",
+		"/var/www/mediatech/office/app/models/Tax.php",
+		"/var/www/mediatech/office/app/modules/invoice/module.json",
+		"/var/www/mediatech/office/app/models/observers/InvoiceItemObserver.php",
+		"/var/www/mediatech/office/app/models/traits/DateTimeTrait.php",
+		"/var/www/mediatech/office/app/database/migrations/2014_03_17_100142_alter_tbl_invoices.php",
+		"/home/nug/Workbench/Repo/masnug/index.html",
+		"/var/www/mediatech/office/app/modules/client/views/admin-client/wiz_create.twig",
+		"/var/www/mediatech/office/app/database/migrations/2014_03_14_090351_create_tbl_invoices.php",
+		"/var/www/mediatech/office/app/database/migrations/2014_03_14_090415_create_tbl_orders.php",
+		"/var/www/mediatech/office/app/database/migrations/2014_03_14_090400_create_tbl_taxes_alter_tbl_products.php",
+		"/var/www/mediatech/office/app/modules/client/src/validators/ClientValidator.php",
+		"/var/www/mediatech/office/app/models/Person.php",
+		"/var/www/mediatech/office/app/src/empu/nusantara/helpers.php",
+		"/var/www/mediatech/office/app/database/migrations/2014_03_14_090434_create_tbl_payments.php",
+		"/var/www/mediatech/office/app/modules/client/lang/id/client.php",
+		"/var/www/learning/simpleinvoices/readme.txt",
+		"/var/www/learning/simpleinvoices/config/config.ini",
+		"/var/www/mediatech/office/app/modules/client/controllers/admin/ClientController.php",
+		"/var/www/mediatech/office/public/themes/routelink/js/jquery.magnific-popup/README.md",
+		"/var/www/mediatech/office/public/themes/routelink/js/jquery.icheck/icheck.jquery.json",
+		"/var/www/mediatech/office/public/themes/routelink/js/jquery.fullcalendar/fullcalendar/gcal.js",
+		"/var/www/mediatech/office/public/themes/routelink/js/fuelux/all.js",
+		"/var/www/mediatech/office/public/themes/routelink/js/fuelux/checkbox.js",
+		"/var/www/mediatech/office/CONTRIBUTING.md",
+		"/var/www/mediatech/office/public/",
+		"/var/www/mediatech/office/server.php",
+		"/var/www/mediatech/office/app/modules/client/views/admin-client/edit.twig",
+		"/var/www/mediatech/office/app/modules/client/views/admin-client/show.twig",
+		"/var/www/mediatech/office/app/modules/client/views/admin-client/index.twig",
+		"/var/www/mediatech/office/app/models/Address.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"content",
+			"<script",
+			"        <script",
+			"<script",
+			"\"conte",
+			"\n<!",
+			"\"content",
+			"href=\"pages/",
+			"\"img/",
+			"img/",
+			"js/",
+			"css/",
+			"- css",
+			"- js",
+			"style",
+			"styles",
+			"^\\s+?<script src\\=\"([^\"]+)\".*$",
+			"top",
+			"canvas",
+			"sidebar",
+			"300px",
+			"page-head",
+			"#sidebar-wrapper ",
+			"> ",
+			"li",
+			"content",
+			"h2",
+			"250px",
+			"css/",
+			"span",
+			"$this->$",
+			"Borang",
+			"Juicier",
+			"nusantara",
+			"Nusantara",
+			"self::",
+			"function",
+			"new",
+			"private",
+			"	function",
+			"Form",
+			"Borang",
+			"Html",
+			"borang",
+			"Borang",
+			"\"</div>\"",
+			"' ~ i ~ '",
+			"{{ i }}",
+			"[]",
+			"Borang",
+			"nusantara",
+			"Nusantara",
+			"Y",
+			"issue_date",
+			"customer",
+			"Product",
+			"refcode",
+			"description",
+			"name",
+			"product",
+			"()",
+			"\\s",
+			".",
+			"span",
+			"0.7s",
+			"color:",
+			"0.5s",
+			"black",
+			"red",
+			"html",
+			"body",
+			"$datetime",
+			"datetime",
+			"APPR",
+			"orders",
+			"intel",
+			"loader",
+			"registered_at",
+			"position",
+			"attribute[",
+			"Attribute",
+			"attribute",
+			"$date",
+			"date",
+			"Registered",
+			"Suspended",
+			"Registered",
+			"date",
+			"region",
+			"Region",
+			"region",
+			"attr",
+			"MetaDataNotFoundException",
+			"s[$type]",
+			"$contact1",
+			"1",
+			"applicant",
+			"contact1",
+			"'type' => ",
+			"contacts",
+			"contact3.",
+			"Sablon",
+			"Nusantara",
+			"sablon",
+			"Sablon",
+			"billables",
+			"span",
+			"activated",
+			"contact1",
+			"required_with",
+			"text-info",
+			"keuangan",
+			"contact3:",
+			"contact2.",
+			"contact1.",
+			"Info!",
+			"contact2",
+			"date(",
+			"contact1.",
+			"contact.",
+			"contact::contact",
+			"contact",
+			"email",
+			"fax",
+			"phone",
+			"contact_position",
+			"contact_name",
+			"contact_sex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  - \\1",
+			"250px",
+			"&nbsp;",
+			"&nbsp",
+			"contact3:",
+			"contact2:",
+			"contact1:",
+			"",
+			"href=\"{{ theme_asset('\\1') }}\"",
+			"src=\"{{ theme_asset('\\1') }}\"",
+			"src=\"{{ theme_asset('\\1') }}",
+			"array(\\1",
+			"\\111",
+			"$1\\1\\1",
+			"$111",
+			"empu/sablon/Aql2",
+			"dropdown-header"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/footer_scripts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/mailbox.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-checkout":
+	{
+		"height": 172.0
+	},
+	"output.git-commit":
+	{
+		"height": 162.0
+	},
+	"output.git-flow-feature-finish":
+	{
+		"height": 160.0
+	},
+	"output.git-flow-feature-start":
+	{
+		"height": 172.0
+	},
+	"output.git-flow-hotfix-start":
+	{
+		"height": 160.0
+	},
+	"output.git-flow-init":
+	{
+		"height": 160.0
+	},
+	"output.git-flow-release-finish":
+	{
+		"height": 160.0
+	},
+	"output.git-flow-release-start":
+	{
+		"height": 160.0
+	},
+	"output.git-init":
+	{
+		"height": 160.0
+	},
+	"output.git-pull":
+	{
+		"height": 160.0
+	},
+	"output.git-push":
+	{
+		"height": 160.0
+	},
+	"output.git-remote":
+	{
+		"height": 162.0
+	},
+	"output.sftp":
+	{
+		"height": 162.0
+	},
+	"project": "admin-ql.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rou",
+				"app/routes.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"rout/base",
+				"app/views/themes/routelink/layouts/base.twig"
+			],
+			[
+				"perso",
+				"app/models/Person.php"
+			],
+			[
+				"routecss",
+				"public/themes/routelink/css/routelink.css"
+			],
+			[
+				"glo",
+				"app/lang/id/global.php"
+			],
+			[
+				"mac",
+				"app/macros.php"
+			],
+			[
+				"ro/bas",
+				"app/views/themes/routelink/layouts/base.twig"
+			],
+			[
+				"clic",
+				"app/modules/client/controllers/admin/ClientController.php"
+			],
+			[
+				"from.twi",
+				"app/views/themes/routelink/macros/form.twig"
+			],
+			[
+				"ap/m",
+				"app/macros.php"
+			],
+			[
+				"ma/for",
+				"app/views/themes/routelink/macros/form.twig"
+			],
+			[
+				"mac/for",
+				"app/views/themes/routelink/macros/form.twig"
+			],
+			[
+				"region",
+				"app/models/Region.php"
+			],
+			[
+				"prc",
+				"app/modules/product/controllers/admin/ProductController.php"
+			],
+			[
+				"base",
+				"app/views/themes/routelink/layouts/base.twig"
+			],
+			[
+				"globa",
+				"app/lang/id/global.php"
+			],
+			[
+				"userc",
+				"app/modules/user/controllers/admin/UserController.php"
+			],
+			[
+				"ddc",
+				"app/modules/Dashboard/Controllers/DashboardController.php"
+			],
+			[
+				"halsuba",
+				"modul/halSubag/sintax.php"
+			],
+			[
+				"pola",
+				"mesin/pola.lib.php"
+			],
+			[
+				"halko",
+				"modul/halKoorPK/sintax.php"
+			],
+			[
+				"fun",
+				"mesin/fungsi.php"
+			],
+			[
+				"izi",
+				"mesin/izin.lib.php"
+			],
+			[
+				"halm",
+				"modul/halMahasiswa/sintax.php"
+			],
+			[
+				"halma/s",
+				"modul/halMahasiswa/sintax.php"
+			],
+			[
+				"mfu",
+				"mesin/fungsi.php"
+			],
+			[
+				"secu",
+				"plugin/php/securimage/securimage.php"
+			],
+			[
+				"ab",
+				"mesin/absah.lib.php"
+			],
+			[
+				"h/s",
+				"modul/home/sintax.php"
+			],
+			[
+				"inti",
+				"mesin/inti.lib.php"
+			],
+			[
+				"basi",
+				"mesin/basisdata.lib.php"
+			],
+			[
+				"ho/s",
+				"modul/home/sintax.php"
+			],
+			[
+				"ini",
+				"mesin/inti.lib.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 475.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/empu/evaldi/evaldi.sublime-project"
+			]
+		],
+		"width": 361.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
